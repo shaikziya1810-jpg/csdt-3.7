@@ -1,2 +1,1 @@
-console.log('Atlas');
-console.log('feature ready');
+const buttonLabel = "Log In";
