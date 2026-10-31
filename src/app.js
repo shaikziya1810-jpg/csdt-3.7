@@ -1,1 +1,2 @@
-const buttonLabel = "Log In";
+console.log('Atlas');
+console.log('feature ready');
